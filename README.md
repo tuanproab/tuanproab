@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Tuấn!
 
-<!--
-**tuanproab/tuanproab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Freshman @ HCMUS | Major: Mathematics & Computer Science  
+🧠 Aspiring AI Researcher | Passionate about LLMs & NLP  
+🚀 On a journey to PhD & BigTech (MIT, OpenAI, DeepMind...)
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+- Learning Python, Linear Algebra, and Git
+- Building AI-powered tools for education
+- Exploring NLP, prompt engineering, and research basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Repositories (coming soon!)
+- Flashcard AI 📚 (in progress)
+- Paper summarizer using GPT 🧾
+- Learning diary 🧠
+
+## 📫 Let's connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tuanproab) *(nếu có)*
+- 📬 anhtuan3a1.2007@gmail.com
