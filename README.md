@@ -15,5 +15,5 @@
 - Learning diary 🧠
 
 ## 📫 Let's connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tuanproab) *(nếu có)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tuanproab)
 - 📬 anhtuan3a1.2007@gmail.com
